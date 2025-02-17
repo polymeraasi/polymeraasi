@@ -1,6 +1,6 @@
 # 🦾 Pinja Koivisto 
 
-** AI & data engineering enthusiast **
+✨ AI & data engineering enthusiast ✨
 
 I'm soon-to-graduate health information technology student who's trying to break in the AI world - preferably in health care. 
 I have a background in machine learning and software engineering studies with a major in health information technology. 
