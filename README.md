@@ -40,15 +40,15 @@ I have a background in machine learning and software engineering studies with a 
 <details>
   <summary>📌 Description of skills </summary>
   <p>
-    I have experience in software development using Python, C++, and LabVIEW, gained through my bachelor's degree minor in software engineering and internship. 
+    I have experience in software development using Python, C++, and LabVIEW, gained through my bachelor's degree minor in software engineering, group projects and internship. 
     During my master's, I transitioned to a minor in signal processing and machine learning, focusing on image processing (MATLAB), computer vision, and core machine 
     learning concepts, including classical models, reinforcement learning, and neural networks. I have also taken courses in databases (SQL) and data-intensive 
     programming (PySpark) to strengthen my knowledge in data engineering. In the future, I plan to pursue Azure certifications to deepen my understanding 
     of cloud-based data engineering solutions.
   </p>
   <p>
-    I also had the opportunity to study as an exchange student at ETH Zurich, where I took courses in AI, robotics, deep learning, and computer vision. 
-    Additionally, I contributed to an AI-driven healthcare project using real-life patient data as part of a group collaboration.
+    I have had the opportunity to study as an exchange student at ETH Zurich (Department of Health Sciences and Technology - D-HEST) during the Autumn 2024 semester, where I took courses in AI, robotics, deep learning, and computer vision. 
+    Additionally, I contributed to an AI-driven healthcare project using real-life patient data as part of a group collaboration. 
   </p>    
 </details>
        
