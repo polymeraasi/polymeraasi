@@ -2,7 +2,7 @@
 
 ✨ AI & data engineering enthusiast ✨
 
-I'm soon-to-graduate health information technology student who's trying to break in the AI world - preferably in health care. 
+I'm soon-to-graduate health information technology student who's trying to break into the AI world. 
 I have a background in machine learning and software engineering studies with a major in health information technology. 
 
 ---
@@ -20,6 +20,7 @@ I have a background in machine learning and software engineering studies with a 
   <img alt="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   <img alt="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
   <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
   <img alt="Scikit-learn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <img alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
