@@ -51,7 +51,7 @@ My internship experience: Software Design Engineer, mainly software development 
     of cloud-based data engineering solutions.
   </p>
   <p>
-    I have had the opportunity to study as an exchange student at ETH Zurich (Department of Health Sciences and Technology - D-HEST) during the Autumn 2024 semester, where I took courses in AI, robotics, deep learning, and computer vision. 
+    I have had the opportunity to study as an exchange student at ETH Zurich (Department of Health Sciences and Technology - D-HEST) during the Autumn 2024 semester, where I took courses in AI, robotics, wearable tech, deep learning, and computer vision. 
     Additionally, I contributed to an AI-driven healthcare project using real-life patient data as part of a group collaboration. 
   </p>    
 </details>
