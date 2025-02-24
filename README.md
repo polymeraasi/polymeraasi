@@ -15,7 +15,6 @@ My internship experience: Software Design Engineer, mainly software development 
   <img alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img alt="MATLAB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
   <img alt="LabVIEW" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg" />
-  <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Scala" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" />
   <img alt="Apache Spark" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
   <img alt="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -51,8 +50,7 @@ My internship experience: Software Design Engineer, mainly software development 
     of cloud-based data engineering solutions.
   </p>
   <p>
-    I have had the opportunity to study as an exchange student at ETH Zurich (Department of Health Sciences and Technology - D-HEST) during the Autumn 2024 semester, where I took courses in AI, robotics, wearable tech, deep learning, and computer vision. 
-    Additionally, I contributed to an AI-driven healthcare project using real-life patient data as part of a group collaboration. 
+    I have had the opportunity to study as an exchange student at ETH Zurich (Department of Health Sciences and Technology - D-HEST) during the Autumn 2024 semester, where I took courses in AI, robotics, wearable tech, deep learning, and computer vision. Additionally, I contributed to an AI-driven healthcare project using real-life patient data as part of a group collaboration. 
   </p>    
 </details>
        
